@@ -1,0 +1,6 @@
+assets
+*.log
+cgi-bin
+clearcache.php
+
+/nbproject/private/
